@@ -98,6 +98,7 @@
 		7C3B84EF2793E529006556DC /* crozzle */ = {
 			isa = PBXGroup;
 			children = (
+				7C3B851F2793E59B006556DC /* Models */,
 				7C3B84F02793E529006556DC /* crozzleApp.swift */,
 				7C3B84F22793E529006556DC /* ContentView.swift */,
 				7C3B84F42793E52A006556DC /* Assets.xcassets */,
@@ -131,6 +132,13 @@
 				7C3B85122793E52A006556DC /* crozzleUITestsLaunchTests.swift */,
 			);
 			path = crozzleUITests;
+			sourceTree = "<group>";
+		};
+		7C3B851F2793E59B006556DC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
